@@ -3,7 +3,7 @@ import Home from '../views/Home.vue';
 import Login from '../views/Login.vue';
 import ApplicationShell from '../components/ApplicationShell.vue';
 
-const base = process.env.NODE_ENV === 'production' ? '/' : '/';
+const base = process.env.NODE_ENV === 'production' ? '/agnoscis/' : '/';
 
 const routes = [
   {

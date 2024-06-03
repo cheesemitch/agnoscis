@@ -26,8 +26,8 @@
                   </button>
                 </div>
               </TransitionChild>
-              <!-- Sidebar component, swap this element with another sidebar if you like -->
-              <div style="background-color: rgb(27, 34, 48);" class="flex grow flex-col gap-y-5 overflow-y-auto px-6 pb-2 ring-1 ring-white/10">
+              <!--mobile Sidebar component, swap this element with another sidebar if you like -->
+              <div class="flex bg-gray-900 grow flex-col gap-y-5 overflow-y-auto px-6 pb-2 ring-1 ring-white/10">
                 <div class="flex h-16 shrink-0 items-center">
                   <img class="h-6 w-auto" src="/images/agnoscis.svg" alt="agnoscis" />
                 </div>

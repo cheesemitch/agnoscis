@@ -2,7 +2,7 @@
 </script>
 
   <template>
-    <div class="min-h-screen flex items-center justify-center bg-gray-800">
+    <div class="min-h-screen flex items-center justify-center">
       <div class="max-w-md w-full py-12 px-6">
         <a href="index.html" class="flex flex-col justify-center items-center">
         <!-- agnoscis logo -->
@@ -44,7 +44,7 @@
               <div class="w-full border-t border-gray-500"></div>
             </div>
             <div class="relative flex justify-center text-sm">
-              <span class="px-2 bg-gray-800 text-gray-400">Don't have an account?</span>
+              <span class="px-2 bg-gray-900 text-gray-400">Don't have an account?</span>
             </div>
           </div>
 
